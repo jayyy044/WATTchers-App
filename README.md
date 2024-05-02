@@ -5,4 +5,4 @@
 ***
 <h4><strong>Pictures of the UI</strong></h4>
 <h5>IOS</h5>
-<img src = ''/>
+<img src = 'https://github.com/jayyy044/WATTchers-App/tree/main/assets/Logo.png'/>
