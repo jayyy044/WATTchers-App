@@ -5,7 +5,7 @@
 ***
 
 <h4><strong>Pictures of the UI</strong></h4>
-<div style = "display: flex;">
+<div style = "display: flex;, flex-direction: row">
     <h5>Home Page</h5>
     <h5>Home Page</h5>
     <h5>Home Page</h5>
