@@ -5,4 +5,7 @@
 ***
 <h4><strong>Pictures of the UI</strong></h4>
 <h5>IOS</h5>
-<img src = "https://github.com/jayyy044/WATTchers-App/blob/main/assets/Logo.png"  alt= "Skill page"/>
+<img src = "https://github.com/jayyy044/WATTchers-App/blob/main/assets/android1.png"  alt= "Skill page"/>
+<img src = "https://github.com/jayyy044/WATTchers-App/blob/main/assets/android2.png"  alt= "Skill page"/>
+<img src = "https://github.com/jayyy044/WATTchers-App/blob/main/assets/android3.png"  alt= "Skill page"/>
+<img src = "https://github.com/jayyy044/WATTchers-App/blob/main/assets/android4.png"  alt= "Skill page"/>
