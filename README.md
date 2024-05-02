@@ -5,9 +5,9 @@
 ***
 
 <h4><strong>Pictures of the UI</strong></h4>
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android1.png" alt="Skill page" style="max-width: 25%;">
-    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android2.png" alt="Skill page" style="max-width: 25%;">
-    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android3.png" alt="Skill page" style="max-width: 25%;">
-    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android4.png" alt="Skill page" style="max-width: 25%;">
+<div style="display: flex;">
+    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android1.png" alt="Skill page" style="max-width: 20%;">
+    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android2.png" alt="Skill page" style="max-width: 20%;">
+    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android3.png" alt="Skill page" style="max-width: 20%;">
+    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android4.png" alt="Skill page" style="max-width: 20%;">
 </div>
