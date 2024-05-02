@@ -5,15 +5,15 @@
 ***
 
 <h4><strong>Pictures of the UI</strong></h4>
-<div style = "display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;">
     <h5>Home Page</h5>
-    <h5>Home Page</h5>
-    <h5>Home Page</h5>
-    <h5>Home Page</h5>
+    <h5>Profile Page</h5>
+    <h5>Insight Page</h5>
+    <h5>Activity Page</h5>
 </div>
 <div style="display: flex;">
-    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android1.png" alt="Home Page" style="width: 20%;  height:20%;">
-    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android2.png" alt="Profile Page" style="width: 20%;  height:20%;">
-    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android3.png" alt="Insight Page" style="width: 20%;  height:20%;">
-    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android4.png" alt="Activity Page" style="width: 20%; height:20%;">
+    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android1.png" alt="Home Page" style="width: 20%; height: 20%;">
+    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android2.png" alt="Profile Page" style="width: 20%; height: 20%;">
+    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android3.png" alt="Insight Page" style="width: 20%; height: 20%;">
+    <img src="https://github.com/jayyy044/WATTchers-App/blob/main/assets/android4.png" alt="Activity Page" style="width: 20%; height: 20%;">
 </div>
